@@ -2,12 +2,12 @@
 
 一个汇集编织小工具的入口。目前收录**光栅编织**与**折纸编织**，未来可继续加入新的主题。各生成器在独立站点运行，工具箱主页只负责展示和导航。
 
-**工具箱在线地址：** 部署完成后补充
+**工具箱在线地址：** https://knitting-toolbox.pages.dev/
 
 ## 工具
 
 - **光栅编织图解生成器 · Illusion Stitch Studio**：[进入现有工具](https://illusion-stitch-studio.pages.dev/)；支持手绘、文字和照片导入，生成棒针 / 钩针图解。
-- **折纸编织图解生成器 · Origami Stitch Studio**：独立站点部署后补充地址；可生成六种形状的图解、文字解与立体模拟。
+- **折纸编织图解生成器 · Origami Stitch Studio**：[进入折纸工具](https://origami-stitch-studio.pages.dev/)；可生成六种形状的图解、文字解与立体模拟。
 
 两份使用指南可从工具箱首页分别打开。光栅站点和折纸站点均有各自的仓库、主页和部署，不依赖本仓库运行。
 
